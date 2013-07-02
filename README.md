@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NexusLexicon/NL-API.png?branch=master)](https://travis-ci.org/NexusLexicon/NL-API)
+
 NL-API
 ======
 
