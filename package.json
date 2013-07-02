@@ -1,0 +1,20 @@
+{
+  "name": "NL-API",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "3.2.4",
+    "jade": "*",
+    "startup": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "supertest": "*"
+  }
+}
